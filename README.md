@@ -1,5 +1,6 @@
-## Hi I'm Hyein Kim 👋
+## Hi I'm Hyein Kim 👋 
 ### my last github is 'hen-ni'(https://github.com/hen-ni)
+### I'm currently working as an IT Planner. Looking forward to collaborating on exciting projects!
 
 
 <h3 align="center"> 📚Tech Skills📚 </h3>
@@ -29,27 +30,25 @@
 </br>
 
 ### :pencil2: Study log
-![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hennnni)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=haein0758)](https://solved.ac/haein0758)
 
 </h1>
 
 ### --------------------------------------------------------------------------------------------------
 
-<h4 align = "left">🌱 Education: DATA/System Engineering </br></br>
-🌱🌱 Activity</br>
-<h5 align = "left"><2024> AI+DX develop education (2024.5~) </br>  
-<2023> KB IT Academy It's your life 3rd generation (2023.3-2023.5) </br>
-<2022> Completed 120H development internship for the third phase of 2022 Fintech Internship (2022.06-2022.08) </br>
- Completed the 50th International Economic Expert/Personal Financial Asset Management Course at the Financial Academy  (2022.03-2022.04) </br>
-<2021> Completed 320H of the Korea Information Society Promotion Agency (NIA) Public Big Data Internship Training (2021.05-2021.08)</br>
- Data & Statistics Club Daja Vu (2021.02-2023.02)</br></h5>
-<h4 align = "left">🌱🌱🌱 Competition</br>
-<h5 align = "left">Korea Fintech Support Center 2022 Fintech Business Service Modeling Development(Hackathon standing prize)</br>
-LH (OMPAS)Selection of CCTV installation location to resolve the blind spot of civil safety in Gimhae(standing prize)</br></h5>
-<h4 align = "left">🌱🌱🌱🌱 Intern</br>
+<h4 align = "left">🌱 Major: DATA/System Engineering </br></br>
+    
+<h4 align = "left">🌱🌱 Competition</br>
 <h5 align = "left">
-<2024> NHCapital Retail Finance Headquarters Digital Finance Planning Team  (2023.12 ~ 2024.03)</br>
+2024 AI+DX project "Find Your Pill" Excellence Award (Korea Artificial Intelligence Association)</br> 
+Korea Fintech Support Center 2022 Fintech Business Service Modeling Development(Hackathon standing prize)</br>
+LH (OMPAS)Selection of CCTV installation location to resolve the blind spot of civil safety in Gimhae(standing prize)</br></h5>
+    
+<h4 align = "left">🌱🌱🌱 Career</br>
+<h5 align = "left">
+<2024> 
+    EASYAI AI Team: Business scenario planning, Figma-based screen design, DB setup (2024.07 ~ )</br>
+    NHCapital Retail Finance Headquarters Digital Finance Planning Team  (2023.12 ~ 2024.03)</br>
 <2023> IBK 2023 Winter Intern Information Protection Department Personal Credit Information Management Team  (2023.01 ~ 2023.02)</br>
 <2021> Korea Information Society Promotion Agency (NIA) Public Big Data Youth Intern_Big Data Team of the Ministry of Strategy and Finance of Yangju City Hall(2021.09 ~ 2021.12)
   
